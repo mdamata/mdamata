@@ -10,7 +10,6 @@
 - ✅ Desenvolvedor Back-End
 - ✅ Desenvolvimento de API REST com Spring Boot
 - ✅ Implantação de Serviços em Nuvem - Microsoft AZ-900
-- ✅ Implantação de Serviços de Inteligência Artificial em Nuvem - Microsoft AI-900
 - ✅ Programação com Python
 
 ---
