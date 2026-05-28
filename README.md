@@ -1,57 +1,37 @@
-# 👋 Olá, eu sou Marcelo da Mata!
-
-🎓 Atualmente estou estudando desenvolvimento de software com foco em back-end.  
-
----
-
-## 🧠 Conhecimentos & Cursos
-
-🎯 **Senai - Cursos **
-- ✅ Desenvolvedor Back-End
-- ✅ Desenvolvimento de API REST com Spring Boot
-- ✅ Implantação de Serviços em Nuvem - Microsoft AZ-900
-- ✅ Programação com Python
-
----
-
-## 🛠️ Tecnologias & Ferramentas
+<h2>💻 Backend</h2>
 
 <p align="left">
-  <!-- Linguagens e frameworks -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring Boot" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="50"/>
 </p>
+
+<h2>🎨 Frontend</h2>
 
 <p align="left">
-  <!-- Cloud & IA -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Microsoft Azure" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50"/>
 </p>
+
+<h2>🗄️ Banco de Dados</h2>
 
 <p align="left">
-  <!-- Ferramentas -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" height="40" alt="Eclipse" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="IntelliJ" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50"/>
 </p>
 
----
+<h2>☁️ Cloud & DevOps</h2>
 
-## 🔍 Em busca de...
-Atualmente busco uma oportunidade como **Desenvolvedor Back-End Júnior**, onde eu possa aplicar meus conhecimentos, crescer profissionalmente e contribuir com projetos desafiadores.
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="50"/>
+</p>
 
----
+<h2>🛠️ Ferramentas</h2>
 
-## 📫 Como me encontrar
-
-- 📧 Email: marcelocdamata@gmail.com 
-- 💬 WhatsApp: (11) 988325075  
-- 💼 [LinkedIn](www.linkedin.com/in/marcelo-da-mata)  
-
-
----
-
-⭐ Obrigado por visitar meu perfil!
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="50"/>
+</p>
